@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Tên bài post
+title: bai viet 1
+categories: baiviet1 baiviet2
 ---
-
